@@ -1,0 +1,15 @@
+{
+  "name": "node-ruuvi-dweeter",
+  "version": "1.0.0",
+  "description": "Reads data from RuuviTag and send it to Dweet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teemu Turkia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-ruuvitag": "^4.6.1"
+  }
+}
