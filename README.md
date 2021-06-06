@@ -6,6 +6,8 @@ Copy template-config.json to config.json and edit the values.
 - interval: How many minutes should be between Dweet posting
 - dweetName: Unique name that you'll be using to fetch your data
 
+Check README.md on https://github.com/sandeepmistry/noble#running-on-linux to see how to authorize the adapter state so that sudo is not needed when running this.
+
 ## Prerequisites
 * Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager.
 ```bash
